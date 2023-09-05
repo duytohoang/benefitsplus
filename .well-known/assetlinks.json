@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "hk.com.hsbc.enterprise.hsbclifebenefitsplus.uat",
+    "sha256_cert_fingerprints":
+    ["15:86:94:3C:4D:D9:B6:C4:C0:D4:A4:66:D2:F5:D0:AF:88:82:3B:43:5A:05:FE:94:2A:E5:CB:A9:8F:5E:EC:6B"]
+  }
+}]
